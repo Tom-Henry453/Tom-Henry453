@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a CS student passionate about **systems programming**, **data structures & algorithms**, and building things from the ground up. I believe in understanding the bigger picture and first principles rather than just memorizing patterns.
+I'm a CS student passionate about **systems programming**, **data structures & algorithms**, and building things from the ground up. I believe in understanding Things from First principles rather than just memorizing patterns.
 
-- 🔭 Currently exploring: **Network protocols (TCP/IP)**, **Server implementation**, **Compiler design**
+- 🔭 Currently exploring: **Network protocols (TCP/IP)**, **Server implementation**, 
 - 🌱 Learning: **Low-level systems programming in C++**, **Memory optimization**, **Algorithm design**
-- 💡 Philosophy: Understand concepts deeply to avoid edge cases
+- 💡 Philosophy: 
 - 🧩 Daily practice: **LeetCode** challenges and hands-on coding projects
 
 ---
@@ -23,10 +23,10 @@ I'm a CS student passionate about **systems programming**, **data structures & a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Currently Working With:**
-- Data Structures (Linked Lists, Stacks, Trees, Caches)
+- Data Structures 
 - Network Programming & Socket APIs
-- Recursive Algorithms & Problem Decomposition
-- Linux Development Environment
+- Linux Environment
+- WEB DEV
 
 ---
 
